@@ -69,3 +69,11 @@ form {
   width: 210px;
   font-size: 16px;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
