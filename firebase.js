@@ -1,13 +1,14 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBxx8KR5HyGxCRDsRufzBURglAYBbBkys0",
-    authDomain: "login-binarybombers.firebaseapp.com",
-    projectId: "login-binarybombers",
-    storageBucket: "login-binarybombers.appspot.com",
-    messagingSenderId: "775557985757",
-    appId: "1:775557985757:web:390ee01bf0df357f5eb234",
-  };
+  apiKey: "AIzaSyDCvDQIG0PxSRf9P23AFWogCnlEiU7GIU8",
+  authDomain: "sdgp-login.firebaseapp.com",
+  projectId: "sdgp-login",
+  storageBucket: "sdgp-login.appspot.com",
+  messagingSenderId: "143153394843",
+  appId: "1:143153394843:web:fff96c3ae05f24d54dc23e",
+  measurementId: "G-1NP9BVB83M"
+};
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
 
